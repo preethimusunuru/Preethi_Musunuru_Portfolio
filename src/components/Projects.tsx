@@ -12,7 +12,7 @@ const Projects = () => {
       description: "Comprehensive teaching assistant management platform with role-based access control",
       fullDescription: "A full-stack web application built with the MERN stack to streamline the management of teaching assistants. Features include user authentication with JWT, file upload with Cloudinary integration, role-based access control, and real-time notifications. The system allows administrators to manage TA assignments, track performance, and handle scheduling efficiently.",
       tech: ["React.js", "Node.js", "MongoDB", "Express", "JWT", "Cloudinary"],
-      image: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=500&h=300&fit=crop",
+      image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFuYWdlbWVudHxlbnwwfHwwfHx8MA%3D%3D",
       category: "Full-Stack"
     },
     {
@@ -20,7 +20,7 @@ const Projects = () => {
       description: "Mobile app connecting schools and parents for better engagement",
       fullDescription: "A Flutter-based mobile application that bridges the communication gap between schools and parents. Built with Firebase backend, it features real-time messaging, event notifications, grade tracking, and attendance monitoring. The app supports both iOS and Android platforms with offline capabilities and push notifications.",
       tech: ["Flutter", "Firebase", "Dart", "Cloud Firestore", "FCM"],
-      image: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=500&h=300&fit=crop",
+      image: "https://images.unsplash.com/photo-1514575110897-1253ff7b2ccb?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8bW9iaWxlJTIwYXBwfGVufDB8fDB8fHww",
       category: "Mobile"
     },
     {
@@ -52,7 +52,7 @@ const Projects = () => {
       description: "Custom processor design using VHDL and FPGA",
       fullDescription: "A comprehensive hardware project involving the design and implementation of a 128-bit RISC processor using VHDL. The processor follows RISC-V architecture principles and was synthesized and tested on FPGA hardware. Features include pipelined execution, custom instruction set, and memory management unit.",
       tech: ["VHDL", "FPGA", "RISC-V", "Vivado", "ModelSim"],
-      image: "https://images.unsplash.com/photo-1500673922987-e212871fec22?w=500&h=300&fit=crop",
+      image: "https://images.unsplash.com/photo-1625571705670-38fc39c923ba?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZW1iZWRkZWQlMjBzeXN0ZW1zfGVufDB8fDB8fHww",
       category: "Hardware"
     },
     {
@@ -60,7 +60,7 @@ const Projects = () => {
       description: "Embedded system using 8051 microcontroller",
       fullDescription: "An embedded system project that tracks and monitors vehicle speed using an 8051 microcontroller. The system includes GPS integration, LCD display, speed limit alerts, and data logging capabilities. Implemented with C programming and interfaced with various sensors and communication modules.",
       tech: ["8051 Microcontroller", "C", "GPS", "LCD", "Sensors"],
-      image: "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=500&h=300&fit=crop",
+      image: "https://images.unsplash.com/opengraph/1x1.png?mark=https%3A%2F%2Fimages.unsplash.com%2Fopengraph%2Flogo.png&mark-w=64&mark-align=top%2Cleft&mark-pad=50&h=630&w=1200&blend=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1657379224967-c1fb6ace4f70%3Fcrop%3Dfaces%252Cedges%26h%3D630%26w%3D1200%26blend%3D000000%26blend-mode%3Dnormal%26blend-alpha%3D10%26mark-w%3D750%26mark-align%3Dmiddle%252Ccenter%26mark%3Dhttps%253A%252F%252Fimages.unsplash.com%252Fopengraph%252Fsearch-input.png%253Fw%253D750%2526h%253D84%2526txt%253Dspeed%252Bcar%2526txt-pad%253D80%2526txt-align%253Dmiddle%25252Cleft%2526txt-color%253D%252523000000%2526txt-size%253D40%2526txt-width%253D660%2526txt-clip%253Dellipsis%2526auto%253Dformat%2526fit%253Dcrop%2526q%253D60%26auto%3Dformat%26fit%3Dcrop%26q%3D60%26ixid%3DM3wxMjA3fDB8MXxzZWFyY2h8Nnx8c3BlZWQlMjBjYXJ8ZW58MHx8fHwxNzUyMDA0NzMxfDA%26ixlib%3Drb-4.1.0&blend-w=1&auto=format&fit=crop&q=60",
       category: "Embedded"
     }
   ];
